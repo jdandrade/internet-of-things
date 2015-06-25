@@ -1,0 +1,18 @@
+[
+   {
+    "nome": "cozinha_lampadas",
+    "tomadas": 5
+   },
+   {
+    "nome": "cozinha_maquinas",
+    "tomadas": 3
+   },
+   {
+    "nome": "quartos",
+    "tomadas": 10
+   },
+   {
+     "nome": "sala",
+     "tomadas": 4
+   }
+]
