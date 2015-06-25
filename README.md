@@ -32,13 +32,10 @@ Reading input from json files was done with the help of json-simple library. htt
 
 Simple - edit json files with whatever settings you want:
 
-   instalacao.json -> Instalation (home)
-  
-   aparelhos.json -> Devices
-   
-   ligacoes.json -> Connections (where to plug in what)
-   
-   eventos.json -> Events (when to turn On/Off - power up/down - cicles)
+- instalacao.json -> Instalation (home)
+- aparelhos.json -> Devices
+- ligacoes.json -> Connections (where to plug in what)
+- eventos.json -> Events (when to turn On/Off - power up/down - cicles)
 
 ## Left to do?
 
