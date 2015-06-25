@@ -28,6 +28,18 @@ Output was done through jfree.chart library with the Observer design patter impl
 
 Reading input from json files was done with the help of json-simple library. https://github.com/fangyidong/json-simple
 
+## How to use it?
+
+Simple - edit json files with whatever settings you want:
+
+   instalacao.json -> Instalation (home)
+  
+   aparelhos.json -> Devices
+   
+   ligacoes.json -> Connections (where to plug in what)
+   
+   eventos.json -> Events (when to turn On/Off - power up/down - cicles)
+
 ## Left to do?
 
 Need to clean code, finish class documentation and finish english translation.
