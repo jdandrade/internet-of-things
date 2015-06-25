@@ -37,6 +37,8 @@ Simple - edit json files with whatever settings you want:
 - ligacoes.json -> Connections (where to plug in what)
 - eventos.json -> Events (when to turn On/Off - power up/down - cicles)
 
+Then run Main.java @ bin/main/Main.java
+
 ## Left to do?
 
 Need to clean code, finish class documentation and finish english translation.
