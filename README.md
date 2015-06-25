@@ -22,7 +22,7 @@ You can manipulate advanced devices (i.e Washing machine) that have some more ad
 
 Since it was made for the OOP class, it was done mainly by object creation/manipulation.
 
-Lists were used to store Devices/Plugs/Rooms.
+Lists were used to store Devices/Plugs/Rooms aswell as to manage Events(important for output because of order).
 
 Output was done through jfree.chart library with the Observer design patter implementation. http://www.jfree.org/jfreechart/
 
